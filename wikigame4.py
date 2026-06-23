@@ -36,7 +36,6 @@ def grab_links(title):
 
 def main():
     print('## Welcome to THE WIKI GAME ##')
-
     current = input('Type the title of your start article: ')
     goal = input('Type the title of your goal article: ')
 
